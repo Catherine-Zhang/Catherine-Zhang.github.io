@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Catherine Zhang
 locale:           en_US
 logo:
 url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: X. Zhang
+  name: C. Zhang
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "An educator with international experience in both industry and academia, and passion about STEM education."
+  email: xinyu.catherine.zhang@gmail.com #emailaddress
   disqus-shortname:
   twitter: #username
   facebook: #username
