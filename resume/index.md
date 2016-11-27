@@ -14,10 +14,12 @@ Ph.D. in Environmental Engineering with focus on fermentation and sustainability
 
 `2005 - 2007`
 __Tsinghua University__
+
 M.S. in Environmental Science and Engineering
 
 `2001 - 2005`
 __Dalian University of Technology__
+
 B.S. in Environmental Engineering in Chemical Engineering
 
 ## Awards
