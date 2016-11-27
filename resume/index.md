@@ -3,22 +3,27 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Teaching Scholar
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2007 - 2012`
+__University of Illinois at Urbana-Champaign__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+Ph.D. in Environmental Engineering with focus on fermentation and sustainability
+
+`2005 - 2007`
+__Tsinghua University__
+M.S. in Environmental Science and Engineering
+
+`2001 - 2005`
+__Dalian University of Technology__
+B.S. in Environmental Engineering in Chemical Engineering
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
 
@@ -50,13 +55,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +71,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
