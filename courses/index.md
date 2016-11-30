@@ -1,4 +1,9 @@
-
+---
+layout: course-post-index
+title: Courses
+excerpt: "Courses Taught"
+image:
+---
 __BEC 463 Fermentation of Recombinant Microorganisms (Small scale upstream bioprocessing course)__
 
 __BEC 426 Upstream Biomanufacturing Laboratory (Intermediate scale upstream bioprocessing course)__
@@ -12,11 +17,3 @@ __CEE 202 Engineering Risk and Uncertainty (Statistics and probability courese)_
 __CEE 330 Environmental Engineering__
 
 __CEE 437 Water Quality Engineering__
-
-
----
-layout: course-post-index
-title: Courses
-excerpt: "Courses Taught"
-image:
----
