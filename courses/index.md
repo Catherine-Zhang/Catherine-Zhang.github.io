@@ -4,6 +4,8 @@ title: Courses
 excerpt: "Courses Taught"
 image:
 ---
+## Currently
+
 __BEC 463 Fermentation of Recombinant Microorganisms (Small scale upstream bioprocessing course)__
 
 __BEC 426 Upstream Biomanufacturing Laboratory (Intermediate scale upstream bioprocessing course)__
