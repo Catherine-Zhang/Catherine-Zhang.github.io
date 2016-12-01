@@ -1,3 +1,7 @@
+## Notes
+1. home.html layout folder:
+ln24 limits only 5 blog post on the home page
+
 ##Introduction
 This template utilizes Jekyll, an open source static website generator, as well as a theme based largely off of the Minimal Mistakes theme by Michael Rose. The purpose of this template is to provide you with a simple, well designed website that is optimized for hosting on Github pages. We aim to reduce the technological know-how and time that is usually required for maintaining a personal or professional website.
 
@@ -32,4 +36,4 @@ These pages are each found in their corresponding directories (/about /resume). 
 Posts are all located in the \_posts folder. This folder contains sample posts that address in more depth the site structure and the markdown syntax. These posts are good to reference (by opening in a text editor of your choice) in order to get a better understanding of markdown. When you are ready to add a new post, simply copy one of the existing posts and edit it. Be sure to update the information at the top of the post, such as the title and timestamp. You will also want to rename the file to follow the same naming convention of the other post files (yyyy-mm-dd-post-title.md).
 
 ##Syncing Changes
-After you have made changes to your site you will need to commit those changes to your repository for those changes to take effect. For more information on making commits please take a look at this [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf). If you would prefer, you can also use GitHub Desktop to commit your changes, or drag-and-drop the changed files directly into your GitHub repository in the browser window. 
+After you have made changes to your site you will need to commit those changes to your repository for those changes to take effect. For more information on making commits please take a look at this [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf). If you would prefer, you can also use GitHub Desktop to commit your changes, or drag-and-drop the changed files directly into your GitHub repository in the browser window.
