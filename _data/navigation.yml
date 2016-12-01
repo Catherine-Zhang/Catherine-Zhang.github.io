@@ -6,8 +6,8 @@
 #   url: /about/
 # Highlight the content and then CTRl+/ will make it become comments
 
-- title: Blog
-  url: /archive/
+# - title: Blog
+#   url: /archive/
 
 - title: Courses
   url: /courses/
