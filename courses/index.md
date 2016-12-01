@@ -1,9 +1,11 @@
 ---
-layout: course-post-index
+layout: page
 title: Courses
 excerpt: "Courses Taught"
 image:
 ---
+[//]:<> excerpt is a summary of the page
+
 ## Currently
 
 __BEC 463 Fermentation of Recombinant Microorganisms (Small scale upstream bioprocessing course)__
