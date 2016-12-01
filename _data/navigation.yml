@@ -2,8 +2,9 @@
 - title: Home
   url: /
 
-- title: About Me
-  url: /about/
+# - title: About Me
+#   url: /about/
+# Highlight the content and then CTRl+/ will make it become comments
 
 - title: Blog
   url: /archive/
