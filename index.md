@@ -11,6 +11,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Current Interests and Projects:
 
 * [Presentations Page](http://xyzcu.github.io/presentations/)
+<!-- If use embed function from youtube, I can show the video on my site. -->
 * Lorem ipsum dolor sit amet
 * DLorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
+
+![bio](/images/bio-photo.jpg)
