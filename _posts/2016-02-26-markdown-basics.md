@@ -7,6 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---
 
+<!-- the file date is important since it's ordered based on it on the site. -->
 
 ## HTML Elements
 
