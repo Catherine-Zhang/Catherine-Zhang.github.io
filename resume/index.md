@@ -30,12 +30,12 @@ Runner-up, Go Green in the City (international competition), Schneider Electric 
 ## Publications
 A list is also available [online](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
 
-#### Books
+### Books
 
 `2014`
 Determining critical factors controlling off-site transport of pyrethroids in the urban environment. in: Describing the behavior and effects of pesticides in urban and agricultural settings, Vol. 3, American Chemical Society
 
-#### Journals
+### Journals
 
 `2013`
 Lignocellulosic hydrolysates and extracellular electron shuttles for H2 production using co-culture fermentation with Clostridium beijerinckii and Geobacter metallireducens. Bioresource Technology
@@ -58,7 +58,7 @@ A systematic study of preparing alginate microspheres containing BSA by spraying
 `2007`
 Enrichment of denitrifying phosphate accumulating organisms in sequencing batch membrane bioreactors. Huanjing Kexue/Environmental Science
 
-#### Conference Proceedings
+### Conference Proceedings
 
 `2007`
 Construction of recombinant bioluminescent bacteria for genetic toxicity evaluation of environmental pollutants. Proceedings of International Workshop on Monitoring and Sensor for Water Pollution Control
