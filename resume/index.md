@@ -86,18 +86,12 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 __Postdoctoral Teaching Scholar__, North Carolina State University
 
-- Teaching
-  - Diverse bioprocessing courses
+- Lectured and optimized diverse bioprocessing courses
+- Designed new course materials implementing critical thinking scenarios and active learning techniques
+- Optimized the protein production (β-glucosidase) in E.coli recombinant
+- Designed and led multidisciplinary pedagogical research projects (SoTL projects) related to STEM education
+- Initiated new scholarly projects related to life cycle assessment (LCA) of single-use bioprocessing technologies
 
-
-- Courses optimization
-  - new course materials using active learning techniques
-
-
-- Pedagogy in STEM education (SoTL projects)
-
-- Scholarly projects in sustainability
-  - Life cycle assessment (LCA) of single-use bioprocessing technologies
 
 
 `2013-2015`
