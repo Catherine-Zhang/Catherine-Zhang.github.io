@@ -6,18 +6,22 @@ image:
 ---
 [//]:<> excerpt is a summary of the page
 
-## Currently
+__I am/was the co-instructor or teaching associate for the following courses__
 
-__BEC 463 Fermentation of Recombinant Microorganisms (Small scale upstream bioprocessing course)__
+### North Carolina State University
 
-__BEC 426 Upstream Biomanufacturing Laboratory (Intermediate scale upstream bioprocessing course)__
+* [BEC 463 Fermentation of Recombinant Microorganisms (small scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec463.php)
 
-__BEC 480 cGMP Fermentation Operations (Large scale upstream bioprocessing course)__
+* [BEC 426 Upstream Biomanufacturing Laboratory (intermediate scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec426.php)
 
-__BEC 590 Industry Case Studies in Therapeutic Antibody Development & cGMP Manufacture (Professional Science Masters (PSM) course)__
+* [BEC 480 cGMP Fermentation Operations (large scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec480.php)
 
-__CEE 202 Engineering Risk and Uncertainty (Statistics and probability courese)__
+* [BEC 590 Industry Case Studies in Therapeutic Antibody Development & cGMP Manufacture (Professional Science Masters (PSM) course)](http://www.btec.ncsu.edu/academic/courses/bec590.php)
 
-__CEE 330 Environmental Engineering__
 
-__CEE 437 Water Quality Engineering__
+### University of Illinois at Urbana-Champaign
+* [CEE 202 Engineering Risk and Uncertainty (statistics and probability coures)](http://catalog.illinois.edu/courses-of-instruction/cee/)
+
+* [CEE 330 Environmental Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
+
+* [CEE 437 Water Quality Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
