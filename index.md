@@ -11,15 +11,13 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 
 ### [Current Interests and Projects](http://xyzcu.github.io/projects/):
 
-1.Scholarship of Teaching and Learning (SoTL) projects:
-
+2.Scholarship of Teaching and Learning (SoTL) projects:
 * Develop new tools to enhance the learning of science and engineering concept: a multidisciplinary project, collaborating with College of Design and aiming to apply for NSF grants for Advancing Informal STEM Learning (AISL)
 
 * Identify the critical factors affecting student study performances in certain discipline: a multidisciplinary project, collaborating with College of Statistics
 
 * Designe active learning activities and critical thinking scenarios for STEM education and implement them into undergraduate bioprocessing courses
 
-<!-- If use embed function from youtube, I can show the video on my site. -->
 2.Sustainability
 * Analyze the sustainability of the emerging single-use bioprocessing technologies in biomanufacturing industry using life cycle assessment (LCA)
 
@@ -33,3 +31,5 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 
 <!-- ![bio](/images/bio-photo.jpg) -->
 <!-- it's best the image is 200*200, name the photo in the image folder.  -->
+
+<!-- If use embed function from youtube, I can show the video on my site. -->
