@@ -9,7 +9,8 @@ image:
 I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and Education Center (BTEC)](http://www.btec.ncsu.edu/) at North Carolina State University (NCSU). My undergraduate degree is in chemical engineering and I graduated with my Ph.D. in environmental engineering from University of Illinois at Urbana-Champaign in 2012. I have worked in industry and technical consulting field for 3 years. I am passionate about the STEM education.
 
 
-#### [Current Interests and Projects](http://xyzcu.github.io/projects/):
+### [Current Interests and Projects](http://xyzcu.github.io/projects/):
+
 1.Scholarship of Teaching and Learning (SoTL) projects:
 
 * Develop new tools to enhance the learning of science and engineering concept: a multidisciplinary project, collaborating with College of Design and aiming to apply for NSF grants for Advancing Informal STEM Learning (AISL)
@@ -23,7 +24,7 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 * Analyze the sustainability of the emerging single-use bioprocessing technologies in biomanufacturing industry using life cycle assessment (LCA)
 
 
-#### Grants
+### Grants
 * SoTL grant from Office of Faculty Development (OFD) at NCSU, 2016
 
 <!-- ### [Courses](http://xyzcu.github.io/courses/)
