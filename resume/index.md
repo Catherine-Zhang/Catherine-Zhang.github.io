@@ -84,7 +84,7 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 `Current`
 
-__Postdoctoral Teaching Scholar__, North Carolina State University
+  __Postdoctoral Teaching Scholar__, North Carolina State University
 
 - Lectured and optimized diverse bioprocessing courses
 - Designed new course materials implementing critical thinking scenarios and active learning techniques
