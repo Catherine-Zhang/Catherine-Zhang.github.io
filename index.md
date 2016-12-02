@@ -6,7 +6,7 @@ image:
   feature: sample-image-1.jpg
 ---
 
-I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and Education Center (BTEC)](http://btec.ncsu.edu) at North Carolina State University (NCSU). My undergraduate degree is in chemical engineering and I graduated with my Ph.D. in environmental engineering from University of Illinois at Urbana-Champaign in 2012. I have worked in industry and technical consulting field for 3 years. I am passionate about the STEM education.
+I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and Education Center (BTEC)](http://www.btec.ncsu.edu/) at North Carolina State University (NCSU). My undergraduate degree is in chemical engineering and I graduated with my Ph.D. in environmental engineering from University of Illinois at Urbana-Champaign in 2012. I have worked in industry and technical consulting field for 3 years. I am passionate about the STEM education.
 
 
 ### [Current Interests and Projects](http://xyzcu.github.io/projects/):
@@ -26,7 +26,9 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 
 ### Grants
 * SoTL grant from Office of Faculty Development (OFD) at NCSU, 2016
+
 ### [Courses](http://xyzcu.github.io/courses/)
+
 ### [Presentations](http://xyzcu.github.io/presentations/)
 
 <!-- ![bio](/images/bio-photo.jpg) -->
