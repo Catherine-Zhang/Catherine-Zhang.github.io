@@ -32,12 +32,10 @@ Runner-up, Go Green in the City (international competition), Schneider Electric 
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-
 ### Books
 
 `2014`
 Determining critical factors controlling off-site transport of pyrethroids in the urban environment. in: Describing the behavior and effects of pesticides in urban and agricultural settings, Vol. 3, American Chemical Society
-
 
 ### Journals
 
@@ -62,7 +60,6 @@ A systematic study of preparing alginate microspheres containing BSA by spraying
 `2007`
 Enrichment of denitrifying phosphate accumulating organisms in sequencing batch membrane bioreactors. Huanjing Kexue/Environmental Science
 
-
 ### Conference Proceedings
 
 `2007`
@@ -73,7 +70,6 @@ Preparation of alginate microspheres and in vitro releasing behavior of encapsul
 
 <!-- `1994`
 Book Title, Journal Title -->
-
 
 
 ## Presentations
