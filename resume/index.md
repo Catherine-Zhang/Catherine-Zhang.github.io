@@ -30,7 +30,7 @@ Runner-up, Go Green in the City (international competition), Schneider Electric 
 ## Publications
 A list is also available [online](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
 
-### Books
+## Books
 
 `2014`
 Determining critical factors controlling off-site transport of pyrethroids in the urban environment. in: Describing the behavior and effects of pesticides in urban and agricultural settings, Vol. 3, American Chemical Society
