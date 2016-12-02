@@ -27,9 +27,9 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 ### Grants
 * SoTL grant from Office of Faculty Development (OFD) at NCSU, 2016
 
-### [Courses](http://xyzcu.github.io/courses/)
+<!-- ### [Courses](http://xyzcu.github.io/courses/)
 
-### [Presentations](http://xyzcu.github.io/presentations/)
+### [Presentations](http://xyzcu.github.io/presentations/) -->
 
 <!-- ![bio](/images/bio-photo.jpg) -->
 <!-- it's best the image is 200*200, name the photo in the image folder.  -->
