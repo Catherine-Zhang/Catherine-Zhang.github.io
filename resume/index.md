@@ -35,6 +35,10 @@ A list is also available [online](https://scholar.google.com/citations?hl=en&use
 `2014`
 Determining critical factors controlling off-site transport of pyrethroids in the urban environment. in: Describing the behavior and effects of pesticides in urban and agricultural settings, Vol. 3, American Chemical Society
 
+<!-- `1994`
+Book Title, Journal Title -->
+
+
 ### Journals
 
 `2013`
@@ -58,7 +62,8 @@ A systematic study of preparing alginate microspheres containing BSA by spraying
 `2007`
 Enrichment of denitrifying phosphate accumulating organisms in sequencing batch membrane bioreactors. Huanjing Kexue/Environmental Science
 
-### Conference Proceedings
+
+### Conference Papers
 
 `2007`
 Construction of recombinant bioluminescent bacteria for genetic toxicity evaluation of environmental pollutants. Proceedings of International Workshop on Monitoring and Sensor for Water Pollution Control
@@ -66,8 +71,6 @@ Construction of recombinant bioluminescent bacteria for genetic toxicity evaluat
 `2004`
 Preparation of alginate microspheres and in vitro releasing behavior of encapsulated bovine serum albumin. Proceedings of 1st Chinese National Chemical and Biochemical Engineering Annual Meeting
 
-<!-- `1994`
-Book Title, Journal Title -->
 
 
 ## Presentations
