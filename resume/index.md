@@ -28,9 +28,7 @@ B.S. in Environmental Engineering in Chemical Engineering
 Runner-up, Go Green in the City (international competition), Schneider Electric (Global 500)
 
 ## Publications
-<!-- (https://www.researchgate.net/profile/Xinyu_Zhang10) -->
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
 
 ### Books
 
