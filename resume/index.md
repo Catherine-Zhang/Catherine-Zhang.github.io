@@ -86,17 +86,20 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 __Postdoctoral Teaching Scholar__, North Carolina State University
 
-- Lectured and optimized diverse bioprocessing courses
-- Designed new course materials implementing critical thinking scenarios and active learning techniques
-- Optimized the protein production (β-glucosidase) in E.coli recombinant
-- Designed and led multidisciplinary pedagogical research projects (SoTL projects) related to STEM education
-- Initiated new scholarly projects related to life cycle assessment (LCA) of single-use bioprocessing technologies
+- Teaching diverse bioprocessing courses
+- Courses optimization
+- Pedagogical research in STEM education (SoTL projects)
+- Scholarly projects in sustainability
 
+<!-- - new course materials using active learning techniques
+- protein production optimization in E.coli recombinant
+- Life cycle assessment (LCA) of single-use bioprocessing technologies -->
 
 
 `2013-2015`
 
 __Chief Scientist__, HYX Biotech LLC
+
 
 <!-- - Task
 - Task -->
