@@ -8,6 +8,8 @@ image:
 
 I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and Education Center (BTEC)](http://www.btec.ncsu.edu/) at North Carolina State University (NCSU). My undergraduate degree is in chemical engineering and I graduated with my Ph.D. in environmental engineering from University of Illinois at Urbana-Champaign in 2012. I have worked in industry and technical consulting field for 3 years. I am passionate about the STEM education.
 
+Teaching is a journey not only for students, but also for the teacher. According to ancient Chinese wisdom, teachers are those who propagate philosophy, impart knowledge and clarify doubts. Therefore, I see my duty as a teacher as not only passing on interdisciplinary knowledge and learning skills to the students, but also cultivating their motivation in seeking wisdom and appreciating beauty in both natural and social world during their lives.
+
 
 ### [Current Interests and Projects](http://xyzcu.github.io/projects/):
 
@@ -25,7 +27,7 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 
 
 ### Grants
-* SoTL grant from Office of Faculty Development (OFD) at NCSU, 2016
+* Scholarship of Teaching and Learning (SoTL) grant from Office of Faculty Development (OFD) at NCSU, 2016
 
 <!-- ### [Courses](http://xyzcu.github.io/courses/)
 
