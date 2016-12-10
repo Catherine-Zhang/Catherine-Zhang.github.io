@@ -11,7 +11,7 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 Teaching is a journey not only for students, but also for the teacher. According to ancient Chinese wisdom, teachers are those who propagate philosophy, impart knowledge and clarify doubts. Therefore, I see my duty as a teacher as not only passing on interdisciplinary knowledge and learning skills to the students, but also cultivating their motivation in seeking wisdom and appreciating beauty in both natural and social world during their lives.
 
 
-### Current Interests and Projects
+<!-- ### Current Interests and Projects -->
 
 1.Scholarship of Teaching and Learning (SoTL) projects:
 
