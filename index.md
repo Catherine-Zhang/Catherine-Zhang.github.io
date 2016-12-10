@@ -11,7 +11,7 @@ I am currently a Postdocotarl Teaching Scholar at [Biomanufacturing Training and
 Teaching is a journey not only for students, but also for the teacher. According to ancient Chinese wisdom, teachers are those who propagate philosophy, impart knowledge and clarify doubts. Therefore, I see my duty as a teacher as not only passing on interdisciplinary knowledge and learning skills to the students, but also cultivating their motivation in seeking wisdom and appreciating beauty in both natural and social world during their lives.
 
 
-### [Current Interests and Projects](http://xyzcu.github.io/projects/):
+### Current Interests and Projects
 
 1.Scholarship of Teaching and Learning (SoTL) projects:
 
@@ -28,12 +28,3 @@ Teaching is a journey not only for students, but also for the teacher. According
 
 ### Grants
 * Scholarship of Teaching and Learning (SoTL) grant from Office of Faculty Development (OFD) at NCSU, 2016
-
-<!-- ### [Courses](http://xyzcu.github.io/courses/)
-
-### [Presentations](http://xyzcu.github.io/presentations/) -->
-
-<!-- ![bio](/images/bio-photo.jpg) -->
-<!-- it's best the image is 200*200, name the photo in the image folder.  -->
-
-<!-- If use embed function from youtube, I can show the video on my site. -->
