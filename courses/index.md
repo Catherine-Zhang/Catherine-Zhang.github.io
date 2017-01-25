@@ -6,9 +6,10 @@ image:
 ---
 [//]:<> excerpt is a summary of the page
 
-__I am/was the co-instructor or teaching associate for the following courses__
+__I am/was the co-instructor and teaching associate for the following courses:__
 
 ### North Carolina State University
+#### Co-instructor, Guest Lecturer
 
 * [BEC 463 Fermentation of Recombinant Microorganisms (small scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec463.php)
 
@@ -20,6 +21,8 @@ __I am/was the co-instructor or teaching associate for the following courses__
 
 
 ### University of Illinois at Urbana-Champaign
+#### Guest Lecturer, Teaching Assistant
+
 * [CEE 202 Engineering Risk and Uncertainty (statistics and probability coures)](http://catalog.illinois.edu/courses-of-instruction/cee/)
 
 * [CEE 330 Environmental Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
