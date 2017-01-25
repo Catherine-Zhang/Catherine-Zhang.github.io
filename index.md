@@ -17,9 +17,7 @@ Teaching is a journey not only for students, but also for the teacher. According
 1.Scholarship of Teaching and Learning (SoTL) projects:
 
 * Develop new tools to enhance the learning of science and engineering concept: a multidisciplinary project, collaborating with College of Design and applying for NSF grants for Advancing Informal STEM Learning (AISL)
-
 * Identify the critical factors affecting student study performances in certain discipline: a multidisciplinary project, collaborating with College of Statistics
-
 * Design active learning activities and critical thinking scenarios for STEM education and implement them into undergraduate bioprocessing courses
 
 2.Sustainability Research
@@ -27,11 +25,13 @@ Teaching is a journey not only for students, but also for the teacher. According
 * Analyze the sustainability of the emerging single-use bioprocessing technologies in biomanufacturing industry using life cycle assessment (LCA)
 
 3.Water-Environment-Energy Nexus Research
+
 * Co-culture fermentation system for enhanced H2 production from lignocelluloses
 * Next-generation biofuels in wastewater treatment plants (WWTPs) for intelligent energy management in the city
 * Biofuel (ethanol) production from brewery wastewater by mixed culture fermentation
 
-4.Industrial projects
+4. Industrial projects
+
 * Data mining: environmental fate and ecological effects of chemicals (e.g. herbicides, pesticides and algal communities)
 * Industrial enzyme development
 
