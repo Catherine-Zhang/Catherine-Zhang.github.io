@@ -31,7 +31,7 @@ Teaching is a journey not only for students, but also for the teacher. According
 * Next-generation biofuels in wastewater treatment plants (WWTPs) for intelligent energy management in the city
 * Biofuel (ethanol) production from brewery wastewater by mixed culture fermentation
 
-4.Industrial projects
+4. Industrial projects
 * Data mining: environmental fate and ecological effects of chemicals (e.g. herbicides, pesticides and algal communities)
 * Industrial enzyme development
 
