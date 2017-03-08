@@ -8,8 +8,7 @@ comments: true
 
 
 ### Recent Presentations:
-* Zhang X.Y., Bring the magic of active learning to the undergrad fermentation course, Science on Stage Talk, Raleigh, NC, Sep 21, 2016
-<!-- [Zhang X.Y., Bring the magic of active learning to the undergrad fermentation course, Science on Stage Talk, Raleigh, NC, Sep 21, 2016](https://youtu.be/s8Is6-K9rII) -->
+* [Zhang X.Y., Bring the magic of active learning to the undergrad fermentation course, Science on Stage Talk, Raleigh, NC, Sep 21, 2016](https://youtu.be/s8Is6-K9rII)
 
 * Miller P.S., Davidson P.C., Harbourt C.M., Zhang X.Y., Boast C.C., Jones R.L., Goodwin G.E., Sliz B.A., Determining critical factors controlling off-site transport of pyrethroids in the urban environment. 246th ACS National Meeting & Exposition, Indianapolis, IN, Sep 8-12. 2013
 
