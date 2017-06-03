@@ -10,24 +10,34 @@ image:
 
 ### Narrative Interactive Metaphors or STEM Education
 
-* [Marriage and reproduction](https://www.youtube.com/watch?v=aR3cjgNMGbs)
+* [Soap Opera Puppet Show (Marriage and reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
 ![Marriage and reproduction](/images/Marriage_Reproduction.jpg)
 
 
-* [Family and marriage](http://krysign.com/inductionsystem/1/index.html)
+* [The Bee’s Story (Family and Marriage)](http://krysign.com/inductionsystem/1/index.html)
 
 ![Family_Marriage](/images/Family_Marriage.jpg)
 
 
-* [Office and business](http://krysign.com/inductionsystem/2/index.html)
+* [Tiny Office (Office and Business)](http://krysign.com/inductionsystem/2/index.html)
 
 ![Office_Business](/images/Office_Business.jpg)
 
 
-* [Mystery and crime](http://krysign.com/inductionsystem/3/index.html)
+* [The Detective (Mystery and Crime)](http://krysign.com/inductionsystem/3/index.html)
 
 ![Mystery_Crime](/images/Mystery_Crime.jpg)
+
+
+* [Robot Replacement (Intelligent Machines)](http://krysign.com/inductionsystem/4/index.html)
+
+![IntelligentMachines](/images/IntelligentMachines.jpg)
+
+
+* [Bakery (Baking Process)](http://krysign.com/inductionsystem/5/index.html)
+
+![BakingProcess](/images/BakingProcess.jpg)
 
 
 <!-- ### University of Illinois at Urbana-Champaign
