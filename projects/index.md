@@ -6,20 +6,20 @@ image:
 ---
 [//]:<> excerpt is a summary of the page
 
-__I am/was the co-instructor or teaching associate for the following courses__
+<!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-### North Carolina State University
+### Narrative Interactive Metaphors or STEM Education
 
-* [BEC 463 Fermentation of Recombinant Microorganisms (small scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec463.php)
+* [Marriage and reproduction](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
-* [BEC 426 Upstream Biomanufacturing Laboratory (intermediate scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec426.php)
+* [Family and marriage](http://krysign.com/inductionsystem/1/index.html)
 
-* [BEC 480 cGMP Fermentation Operations (large scale upstream bioprocessing course)](http://www.btec.ncsu.edu/academic/courses/bec480.php)
+* [Office and business](http://krysign.com/inductionsystem/2/index.html)
 
-* [BEC 590 Industry Case Studies in Therapeutic Antibody Development & cGMP Manufacture (Professional Science Masters (PSM) course)](http://www.btec.ncsu.edu/academic/courses/bec590.php)
+* [Mystery and crime](http://krysign.com/inductionsystem/3/index.html)
 
 
-### University of Illinois at Urbana-Champaign
+<!-- ### University of Illinois at Urbana-Champaign
 * [CEE 202 Engineering Risk and Uncertainty (statistics and probability coures)](http://catalog.illinois.edu/courses-of-instruction/cee/)
 
 * [CEE 330 Environmental Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
@@ -30,4 +30,4 @@ __I am/was the co-instructor or teaching associate for the following courses__
 ![bio](/images/bio-photo.jpg)
 it's best the image is 200*200, name the photo in the image folder.  
 
-If use embed function from youtube, I can show the video on my site.
+If use embed function from youtube, I can show the video on my site. -->
