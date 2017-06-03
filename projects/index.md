@@ -10,7 +10,7 @@ image:
 
 ### Narrative Interactive Metaphors or STEM Education
 
-* [Soap Opera Puppet Show (Marriage and reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
+* [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
 ![Marriage and reproduction](/images/Marriage_Reproduction.jpg)
 
