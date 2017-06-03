@@ -12,11 +12,22 @@ image:
 
 * [Marriage and reproduction](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
+![Marriage and reproduction](/images/Marriage_Reproduction.jpg)
+
+
 * [Family and marriage](http://krysign.com/inductionsystem/1/index.html)
+
+![Family_Marriage](/images/Family_Marriage.jpg)
+
 
 * [Office and business](http://krysign.com/inductionsystem/2/index.html)
 
+![Office_Business](/images/Office_Business.jpg)
+
+
 * [Mystery and crime](http://krysign.com/inductionsystem/3/index.html)
+
+![Mystery_Crime](/images/Mystery_Crime.jpg)
 
 
 <!-- ### University of Illinois at Urbana-Champaign
@@ -24,10 +35,11 @@ image:
 
 * [CEE 330 Environmental Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
 
-* [CEE 437 Water Quality Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/)
+* [CEE 437 Water Quality Engineering](http://catalog.illinois.edu/courses-of-instruction/cee/) -->
 
 
-![bio](/images/bio-photo.jpg)
-it's best the image is 200*200, name the photo in the image folder.  
+<!-- ![bio](/images/bio-photo.jpg) -->
+
+<!-- it's best the image is 200*200, name the photo in the image folder.  
 
 If use embed function from youtube, I can show the video on my site. -->
