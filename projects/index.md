@@ -8,7 +8,7 @@ image:
 
 <!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-### Narrative Interactive Metaphors or STEM Education
+### Narrative Interactive Metaphors for STEM Education
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
