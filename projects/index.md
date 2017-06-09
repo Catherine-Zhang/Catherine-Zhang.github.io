@@ -8,7 +8,7 @@ image:
 
 <!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-## SoTL Project: Narrative Interactive Metaphors for STEM Education
+## Narrative Interactive Metaphors for STEM Education
 
 1. Design online narrative interactive metaphors to teach STEM concepts
 2. Makes complex STEM concepts interesting, memorable, relevant and meaningful
