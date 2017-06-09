@@ -8,7 +8,19 @@ image:
 
 <!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-### Narrative Interactive Metaphors for STEM Education
+## SoTL Project: Narrative Interactive Metaphors for STEM Education
+
+### Online narrative interactive metaphors to teach STEM concepts
+* Makes complex STEM concepts interesting, memorable, relevant and meaningful
+
+#### Example:
+
+##### Target concepts: induction system for protein expression in *E.coli*
+
+
+
+##### Metaphors (click the hyperlink to play the video):
+
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
 
