@@ -37,6 +37,6 @@ Teaching is a journey not only for students, but also for the teacher. According
 
 
 ### Grants
-* Scholarship of Teaching and Learning (SoTL) grant from Office of Faculty Development (OFD) at NCSU, 2016
+* Scholarship of Teaching and Learning (SoTL) grant from Office of Faculty Development (OFD) at NCSU, 2016, 2017
 * National Science Foundation grant: Reduced Extracellular Electron Shuttles (EES) as Electron Donors for H2 Production in Fermentative Bacterial Metabolism, 2008
 * National Program of Science-Technology Support grant in China: Water Quality Evaluation Using Genetically Modified Microbes, 2005
