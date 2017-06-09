@@ -10,12 +10,15 @@ image:
 
 ## SoTL Project: Narrative Interactive Metaphors for STEM Education
 
-### Online narrative interactive metaphors to teach STEM concepts
-* Makes complex STEM concepts interesting, memorable, relevant and meaningful
+1. Design online narrative interactive metaphors to teach STEM concepts
+2. Makes complex STEM concepts interesting, memorable, relevant and meaningful
 
 #### Example:
 
 ##### Target concepts: induction system for protein expression in *E.coli*
+
+![inductionsystem1](/images/InductionSystem1.jpg)
+![inductionsystem2](/images/InductionSystem2.jpg)
 
 
 
