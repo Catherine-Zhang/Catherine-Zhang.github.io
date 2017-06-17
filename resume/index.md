@@ -28,7 +28,7 @@ B.S. in Environmental Engineering in Chemical Engineering
 Runner-up, Go Green in the City (international competition), Schneider Electric (Global 500)
 
 ## Publications
-A list is also available [online](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
+A list is also available online [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
 
 
 ### Books
@@ -66,6 +66,10 @@ Enrichment of denitrifying phosphate accumulating organisms in sequencing batch 
 
 ### Proceedings
 
+`2017`
+
+Stories for Science Classes: Experimental Interactive Metaphors. Proceedings of EDULEARN17 (9th annual International Conference on Education and New Learning Technologies)
+
 `2007`
 Construction of recombinant bioluminescent bacteria for genetic toxicity evaluation of environmental pollutants. Proceedings of International Workshop on Monitoring and Sensor for Water Pollution Control
 
@@ -74,7 +78,7 @@ Preparation of alginate microspheres and in vitro releasing behavior of encapsul
 
 
 ## Presentations
-[Presentation Page](http://xyzcu.github.io/presentations/)
+Please see [Presentation Page](http://xyzcu.github.io/presentations/)
 
 <!-- `1994`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a> -->
