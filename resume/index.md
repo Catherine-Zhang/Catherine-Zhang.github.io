@@ -28,7 +28,7 @@ B.S. in Environmental Engineering in Chemical Engineering
 Runner-up, Go Green in the City (international competition), Schneider Electric (Global 500)
 
 ## Publications
-A list is also available online [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
+A list is also available online [(*Google Scholar*)](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
 
 
 ### Books
@@ -78,7 +78,7 @@ Preparation of alginate microspheres and in vitro releasing behavior of encapsul
 
 
 ## Presentations
-Please see [Presentation Page](http://xyzcu.github.io/presentations/)
+Please see [*Presentation Page*](http://catherine-zhang.github.io/presentations/)
 
 <!-- `1994`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a> -->
