@@ -15,14 +15,14 @@ image:
 
 #### Prototypes:
 
-1. Target concept: induction system for protein expression in *E.coli*
+a. Target concept: induction system for protein expression in *E.coli*
 
 ![inductionsystem1](/images/InductionSystem1.jpg)
 ![inductionsystem2](/images/InductionSystem2.jpg)
 
 
 
-3. Metaphors (click the hyperlink to play the video):
+b. Metaphors (click the hyperlink to play the video):
 
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
