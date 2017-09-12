@@ -11,18 +11,18 @@ image:
 ## Narrative Interactive Metaphors for STEM Education
 #### Multidisciplinary student-centered design
 1. Design online narrative interactive metaphors to teach STEM concepts
-2. Make complex STEM concepts interesting, relevant， memorable and meaningful
+2. Make complex STEM concepts interesting, relevant, memorable and meaningful
 
 #### Prototypes:
 
-##### Target concept: induction system for protein expression in *E.coli*
+1. Target concept: induction system for protein expression in *E.coli*
 
 ![inductionsystem1](/images/InductionSystem1.jpg)
 ![inductionsystem2](/images/InductionSystem2.jpg)
 
 
 
-##### Metaphors (click the hyperlink to play the video):
+2. Metaphors (click the hyperlink to play the video):
 
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
