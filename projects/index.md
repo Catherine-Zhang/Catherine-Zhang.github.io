@@ -10,7 +10,7 @@ image:
 
 ## Narrative Interactive Metaphors for STEM Education
 #### Multidisciplinary student-centered design
-1. Design online narrative interactive metaphors to teach STEM concepts
+1. Design online narrative interactive [metaphors](https://www.merriam-webster.com/dictionary/metaphor) to teach STEM concepts
 2. Make complex STEM concepts interesting, relevant, memorable and meaningful
 
 #### Prototypes:
