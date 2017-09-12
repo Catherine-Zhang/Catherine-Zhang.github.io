@@ -22,7 +22,7 @@ image:
 
 
 
-2. Metaphors (click the hyperlink to play the video):
+3. Metaphors (click the hyperlink to play the video):
 
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
