@@ -108,8 +108,6 @@ __Postdoctoral Teaching Scholar__, North Carolina State University
 __Chief Scientist__, HYX Biotech LLC
 
  - 
-<!-- - Task
-- Task -->
 
 
 `2012-2013`
