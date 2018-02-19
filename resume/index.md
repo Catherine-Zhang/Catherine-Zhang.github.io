@@ -25,7 +25,7 @@ B.S. in Environmental Engineering in Chemical Engineering
 ## Awards
 
 `2012`
-Runner-up, Go Green in the City (international competition), Schneider Electric (Global 500)
+Second place, Go Green in the City (international competition), Schneider Electric (Global 500)
 
 ## Publications
 A list is also available online [(*Google Scholar*)](https://scholar.google.com/citations?hl=en&user=2484OVIAAAAJ)
@@ -66,6 +66,9 @@ Enrichment of denitrifying phosphate accumulating organisms in sequencing batch 
 
 ### Proceedings
 
+`2018`
+Designing peer teaching using the backward design strategy and retrieval, spaced, and varied practices in undergraduate courses (10th Annual Conference on Higher Education Pedagogy)
+
 `2017`
 
 Stories for Science Classes: Experimental Interactive Metaphors. Proceedings of EDULEARN17 (9th annual International Conference on Education and New Learning Technologies)
@@ -104,7 +107,7 @@ __Postdoctoral Teaching Scholar__, North Carolina State University
 
 __Chief Scientist__, HYX Biotech LLC
 
-
+ - 
 <!-- - Task
 - Task -->
 
