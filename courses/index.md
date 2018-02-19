@@ -10,18 +10,21 @@ __I am/was the co-instructor, guest lecturer and teaching assistant for the foll
 
 ### North Carolina State University
 
-#### Co-instructor/Guest Lecturer, Biomanufacturing/Chemical Engineering/Bioengineering
+#### Instructor/Guest Lecturer, Biomanufacturing/Chemical Engineering/Bioprocessing/Civil & Environmental Engineering
 
-* [BEC 463/563 Fermentation of Recombinant Microorganisms (small scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec463.php)
+* [BEC 463/563 Fermentation of Recombinant Microorganisms (bench scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec463.php)
 
-* [BEC 426/526 Upstream Biomanufacturing Laboratory (intermediate scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec426.php)
+* [BEC 426/526 Upstream Biomanufacturing Laboratory (pilot scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec426.php)
 
-* [BEC 480/580 cGMP Fermentation Operations (large scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec480.php)
+* [BEC 480/580 cGMP Fermentation Operations (simulated industrial scale upstream bioprocessing undergraduate & graduate course)](http://www.btec.ncsu.edu/academic/courses/bec480.php)
 
 * [BEC 590 Industry Case Studies in Therapeutic Antibody Development & cGMP Manufacture (Professional Science Masters (PSM) course)](http://www.btec.ncsu.edu/academic/courses/bec590.php)
 
 * [BEC 577 Advanced Biomanufacturing and Biocatalysis (Professional Science Masters (PSM) course)](https://www.btec.ncsu.edu/academic/courses/bec577.php)
 
+* [CE 378 Environmental Chemistry and Microbiology (environmental engineering undergraduate course)](http://catalog.ncsu.edu/undergraduate/coursedescriptions/ce/)
+
+* [CE 382 Hydraulics (civil engineering undergraduate course)](http://catalog.ncsu.edu/undergraduate/coursedescriptions/ce/)
 
 ### University of Illinois at Urbana-Champaign
 
