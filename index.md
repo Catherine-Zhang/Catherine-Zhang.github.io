@@ -16,9 +16,13 @@ Teaching is a journey not only for students, but also for the teacher. According
 
 #### Scholarship of Teaching and Learning (SoTL) Projects:
 
-* Develop new tools to enhance the learning of science and engineering concept: a multidisciplinary project, collaborating with College of Design and applying for NSF grants for Advancing Informal STEM Learning (AISL)
+* Develop new tools (e.g. Virtual Reality games, interactive visual metaphors, etc) to enhance the learning of science and engineering concept: a multidisciplinary project, collaborating with College of Design
 * Identify the critical factors affecting student study performances in certain discipline: a multidisciplinary project, collaborating with College of Statistics
 * Design active learning activities and critical thinking scenarios for STEM education and implement them into undergraduate bioprocessing courses
+
+#### Process Design
+* Retrofit of the wastewater treatment system in a biopharmaceutical facility (used as a capstone design project for students)
+* Design the upstream (fermentation) and downstream (recovery and purification) processes for the production of monoclonal antibody using the CHO cell line
 
 #### Sustainability Research
 
