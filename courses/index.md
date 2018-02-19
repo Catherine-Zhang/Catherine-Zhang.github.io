@@ -6,7 +6,7 @@ image:
 ---
 [//]:<> excerpt is a summary of the page
 
-__I am/was the co-instructor, guest lecturer and teaching assistant for the following courses:__
+__I am/was the instructor, guest lecturer and teaching assistant for the following courses:__
 
 ### North Carolina State University
 
@@ -35,3 +35,6 @@ __I am/was the co-instructor, guest lecturer and teaching assistant for the foll
 * [CEE 330 Environmental Engineering (undergraduate course)](http://catalog.illinois.edu/courses-of-instruction/cee/)
 
 * [CEE 437 Water Quality Engineering (undergraduate course)](http://catalog.illinois.edu/courses-of-instruction/cee/)
+
+### Online Workshops (Distance Education Institute)
+* How to Read a Scholarly Article, ~100 participants
