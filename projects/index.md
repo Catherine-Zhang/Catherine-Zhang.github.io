@@ -25,7 +25,7 @@ a. Target concept: induction system for protein expression in *E.coli*
 
 
 
-b. Dramatization (click the hyperlink to play the animations):
+b. Dramatization by students (click the hyperlink to play the animations):
 
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
