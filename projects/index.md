@@ -8,15 +8,15 @@ image:
 
 <!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-#### 1. Dramatization in a Virtual Stage for STEM Education
-##### (1) Multidisciplinary student-centered design
+### 1. Dramatization in a Virtual Stage for STEM Education
+#### (1) Multidisciplinary student-centered design
 * Dramatize STEM concepts into animations
 
 <!-- Design online narrative interactive [metaphors](https://www.merriam-webster.com/dictionary/metaphor) to teach STEM concepts-->
 
 *  Make complex STEM concepts interesting, relevant, memorable and meaningful
 
-##### (2) Proof of concepts:
+#### (2) Proof of concepts:
 
 a. Target concept: induction system for protein expression in *E.coli*
 
@@ -94,5 +94,5 @@ b. Dramatization (click the hyperlink to play the animations):
 
 If use embed function from youtube, I can show the video on my site. -->
 
-#### 2. Virtual Reality (VR) for bioprocessing training
-##### VR driven simulation game to train students on hands-on industrial sterilization procedure (steam in place, a.k.a. SIP) on 30L bioreactors.
+### 2. Virtual Reality (VR) for bioprocessing training
+#### VR driven simulation game to train students on hands-on industrial sterilization procedure (steam in place, a.k.a. SIP) on 30L bioreactors.
