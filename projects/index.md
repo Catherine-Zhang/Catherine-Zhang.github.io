@@ -8,12 +8,15 @@ image:
 
 <!-- __Scholarship of Teaching and Learning (SoTL) Projects__ -->
 
-## Narrative Interactive Metaphors for STEM Education
-#### Multidisciplinary student-centered design
-1. Design online narrative interactive [metaphors](https://www.merriam-webster.com/dictionary/metaphor) to teach STEM concepts
-2. Make complex STEM concepts interesting, relevant, memorable and meaningful
+#### 1. Dramatization in a Virtual Stage for STEM Education
+##### (1) Multidisciplinary student-centered design
+* Dramatize STEM concepts into animations
 
-#### Prototypes:
+<!-- Design online narrative interactive [metaphors](https://www.merriam-webster.com/dictionary/metaphor) to teach STEM concepts-->
+
+*  Make complex STEM concepts interesting, relevant, memorable and meaningful
+
+##### (2) Proof of concepts:
 
 a. Target concept: induction system for protein expression in *E.coli*
 
@@ -22,7 +25,7 @@ a. Target concept: induction system for protein expression in *E.coli*
 
 
 
-b. Metaphors (click the hyperlink to play the video):
+b. Dramatization (click the hyperlink to play the animations):
 
 
 * [Soap Opera Puppet Show (Marriage and Reproduction)](https://www.youtube.com/watch?v=aR3cjgNMGbs)
@@ -55,6 +58,28 @@ b. Metaphors (click the hyperlink to play the video):
 ![BakingProcess](/images/BakingProcess.jpg)
 
 
+* [Toy Factory (Communication and Language)](https://youtu.be/UQkffuF9eBY)
+
+![Communication_Language](/images/Communication_Language.jpg)
+
+
+* [Cooking Club (Dating)](https://youtu.be/ygw5-F9nyeE)
+
+![Dating](/images/Dating.jpg)
+
+
+* [The Hero's Journey (Fantasy)](https://drive.google.com/file/d/0B1sh7qE9qx3bbFFxXzB4ZWhfRTA/view)
+
+![Fantasy](/images/Fantasy.jpg)
+
+
+<!-- * [Keyholes & Keys (Locks and Keys)](http://krysign.com/inductionsystem/6/index.html)
+
+![Lock_Keys](/images/Lock_Keys.jpg)-->
+
+
+
+
 <!-- ### University of Illinois at Urbana-Champaign
 * [CEE 202 Engineering Risk and Uncertainty (statistics and probability coures)](http://catalog.illinois.edu/courses-of-instruction/cee/)
 
@@ -68,3 +93,6 @@ b. Metaphors (click the hyperlink to play the video):
 <!-- it's best the image is 200*200, name the photo in the image folder.  
 
 If use embed function from youtube, I can show the video on my site. -->
+
+#### 2. Virtual Reality (VR) for bioprocessing training
+##### VR driven simulation game to train students on hands-on industrial sterilization procedure (steam in place, a.k.a. SIP) on 30L bioreactors.
