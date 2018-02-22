@@ -97,7 +97,8 @@ If use embed function from youtube, I can show the video on my site. -->
 ### 2. Virtual reality (VR) for bioprocessing training
 #### VR driven simulation game to train students on hands-on industrial sterilization procedure (steam in place, a.k.a. SIP) on 30L bioreactors.
 * Bioreactor 3D model (in progress)
+
 ![VR_Bioreactor](/images/VR_Bioreactor.jpg)
-![VR_Bioreactor](/images/VR_Bioreactor-ori.jpg)
+
 
 * VR demo (coming soon)
